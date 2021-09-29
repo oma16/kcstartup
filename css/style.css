@@ -1,0 +1,139 @@
+html,body{
+    overflow-x: hidden;
+}
+.logo{
+    width: 100px;
+    height: 70px;
+}
+#two{
+    background-color: #f2f2f2;
+    height: 350px;
+}
+ #four{
+background-color: #f2f2f2;
+height: 400px;
+}
+#three{
+    
+    height: 750px;
+}
+.freepik,.read{
+    margin-top: 20px;
+}
+.i{
+    margin-bottom: 40px;
+    
+}
+.art h1{
+    font-size: 100px;
+    margin-top: 70px;
+}
+ .art span{
+    font-size: 90px;
+}
+.designer{
+    margin-top: 7rem;
+}
+.stan{
+    padding-top: 130px;
+}
+.people,.inspire{
+    margin-top: 100px;
+}
+ 
+
+#six,#seven,.social{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.more, .viewmore{
+   background-color: rgba(255,165,77,1);
+   color: white;
+   margin-top: 20px;
+}
+.profile{
+    margin-top: 200px;
+}
+#eight{
+    background: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../images/rock-bg.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    
+    
+}
+.form-details{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.services{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.about{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.man{
+    width: 320px;
+    height: 320px;
+    margin-top: 70px;
+    
+}
+.cont .txt{ 
+    margin-top: 30px;
+    
+}
+.h1{
+    font-weight: 600;
+}
+.media{
+    height: 72px;
+    width: 72px;
+}
+.sample,.web{
+    padding-top: 3rem;
+}
+#nine{
+    background-color: #1f203a;
+    height: 30vh;
+}
+
+
+#ten{
+    background-color: rgba(0,0,0,0.6);
+    height: 20vh;
+}
+
+.profile-text{
+    margin-top: 60px;
+    }
+   
+    .design img{
+        width: 100%;
+        height: 400px;
+    }
+    .stand img {
+        width: 100%;
+        height: 400px;
+        
+    }
+    .article{
+        margin-top: 90px;
+    }
+    .dolor{
+        line-height: 40px;
+    }
+    
+
+
+@media(max-width:425px){
+    
+    #four{
+        height: 900px;
+    }
+    .media{
+        height: 36px;
+        width: 36px;
+    }
+}
