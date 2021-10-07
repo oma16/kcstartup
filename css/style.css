@@ -104,19 +104,19 @@ height: 400px;
     font-size: 3.6vw;
 }
 .web{
-    padding-top: 2rem;
+    padding-top: 1rem;
     font-size: 3.0vw;
     padding-bottom: 1rem;
 }
 #nine{
     background-color: #1f203a;
-    height: 30vh;
+
 }
 
 
 #ten{
     background-color: rgba(0,0,0,0.6);
-    height: 15vh;
+    
 }
 
 .profile-text{
