@@ -85,9 +85,12 @@ height: 400px;
     
 }
 .cont .txt{ 
-    margin-top: 170px;
     font-size: 3.067vw;
     
+}
+.cont{
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 .h1{
     font-weight: 600;
@@ -97,7 +100,7 @@ height: 400px;
     width: 72px;
 }
 .sample,.web{
-    padding-top: 3rem;
+    padding-top: 1rem;
     font-size: 3.6vw;
 }
 #nine{
