@@ -115,7 +115,7 @@ height: 400px;
 
 
 #ten{
-    background-color: rgba(0,0,0,0.6);
+    background-color: rgba(121, 66, 66, 0.6);
     
 }
 
@@ -152,10 +152,10 @@ height: 400px;
         width: 36px;
     }
     .sample{
-        padding-top: 2.5rem;
+        padding-top: 2rem;
     }
     .web{
-        padding-top: 2.5rem;
+        padding-top: 2rem;
         
     }
 }
