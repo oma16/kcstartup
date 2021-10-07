@@ -85,7 +85,7 @@ height: 400px;
     
 }
 .cont .txt{ 
-    font-size: 3.067vw;
+    font-size: 3.1vw;
     
 }
 .cont{
@@ -99,9 +99,14 @@ height: 400px;
     height: 72px;
     width: 72px;
 }
-.sample,.web{
+.sample{
     padding-top: 1rem;
     font-size: 3.6vw;
+}
+.web{
+    padding-top: 2rem;
+    font-size: 3.0vw;
+    padding-bottom: 1rem;
 }
 #nine{
     background-color: #1f203a;
@@ -111,7 +116,7 @@ height: 400px;
 
 #ten{
     background-color: rgba(0,0,0,0.6);
-    height: 20vh;
+    height: 15vh;
 }
 
 .profile-text{
